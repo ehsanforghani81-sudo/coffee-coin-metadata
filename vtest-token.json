@@ -2,6 +2,6 @@
   "name": "VTEST Token",
   "symbol": "VTEST",
   "description": "Experimental test token for the VHELP project.",
-  "image": "",
+  "image": "https://ehsanforghani81-sudo.github.io/coffee-coin-metadata/vtest.png",
   "external_url": ""
 }
